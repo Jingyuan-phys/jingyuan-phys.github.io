@@ -39,9 +39,9 @@ author:
   inspire-hep      : "https://inspirehep.net/authors/3168276"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0008-2231-9393"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Jingyuan-Wang/2439123531"
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : Jingyuan Wang
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
