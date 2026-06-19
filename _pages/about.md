@@ -15,4 +15,14 @@ Research Interest
 - Gravitational particle production
 - Quantum field theory in curved spacetime
 
-Email: jywang7 at uchicago.edu
+Contact
+======
+- Phone: +1 (773)-236-5685
+- Email: jywang7 at uchicago.edu
+
+Address
+======
+William Eckhardt Research Center
+ERC 476
+5640 South Ellis Avenue
+Chicago, IL 60637
