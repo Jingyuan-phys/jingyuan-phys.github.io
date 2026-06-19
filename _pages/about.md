@@ -22,7 +22,7 @@ Contact
 
 Address
 ======
-William Eckhardt Research Center
-ERC 476
-5640 South Ellis Avenue
+William Eckhardt Research Center<br>
+ERC 476<br>
+5640 South Ellis Avenue<br>
 Chicago, IL 60637
