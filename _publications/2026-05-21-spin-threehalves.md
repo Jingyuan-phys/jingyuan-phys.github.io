@@ -7,7 +7,8 @@ excerpt: ''
 date: 2026-05-21
 venue: 'Journal of High Energy Physics'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: "https://arxiv.org/abs/2512.16976"
+# paperurl: "https://arxiv.org/abs/2512.16976"
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Edward W. Kolb, Andrew J. Long, Evan McDonough, and Jingyuan Wang. (2026). "Creation of spin-3/2 dark matter via cosmological gravitational particle production." <i>Journal of High Energy Physics</i> 2026, 242.'
 ---
+Links: [arXiv](https://arxiv.org/abs/2512.16976) · [Journal](https://link.springer.com/article/10.1007/JHEP05(2026)242)
