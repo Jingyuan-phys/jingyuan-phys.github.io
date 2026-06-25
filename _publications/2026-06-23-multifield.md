@@ -2,7 +2,7 @@
 title: "Cosmological gravitational particle production in multifield inflation"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-06-23-cosmological-gravitational-particle-production-multifield-inflation
+permalink: /publication/2026-06-23-multifield
 excerpt: ''
 date: 2026-06-23
 venue: 'arXiv'
